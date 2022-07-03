@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm a self-taught software engineer from the Turkey, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
-<!--
-**aqRosearikan/aqRosearikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<a href="https://discord.com/users/712019941867520053">
+  <img src="https://lanyard-profile-readme.vercel.app/api/712019941867520053?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Frontend:
+  - React/Next.js
+  - TailwindCSS
+  - In the past: HTML/CSS/JS
+
+- 🛠 Backend:
+  - Node/Fastify
+  - Postgres + Prisma
+  - Redis
+  - Docker
+
+Learning/know a bit of Python, Go, and Swift as well :)
