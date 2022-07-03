@@ -13,7 +13,7 @@ I'm a self-taught software engineer from the Turkey, who's currently pursuing fu
 
 - 🛠 Backend:
   - Node
-  - RUst
+  - Rust
   - Postgres + Prisma
   - Redis
   - Docker
