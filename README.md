@@ -9,12 +9,12 @@ I'm a self-taught software engineer from the Turkey, who's currently pursuing fu
 - 🖥️ Frontend:
   - React/Next.js
   - TailwindCSS
-  - In the past: HTML/CSS/JS
+  - Rust
 
 - 🛠 Backend:
-  - Node/Fastify
+  - Node
+  - RUst
   - Postgres + Prisma
   - Redis
   - Docker
 
-Learning/know a bit of Python, Go, and Swift as well :)
