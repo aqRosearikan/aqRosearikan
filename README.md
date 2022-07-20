@@ -7,12 +7,11 @@
 </a>
 
 - 🖥️ Frontend:
-  - React/Next.js
+  - React/Next.js/Vite.js
   - TailwindCSS
-  - Rust
 
 - 🛠 Backend:
-  - Node
+  - Node(Nest.js/Express.js)
   - Rust
   - Go
   - Postgres + Prisma
