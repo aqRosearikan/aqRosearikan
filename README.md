@@ -14,7 +14,7 @@
 - 🛠 Backend:
   - Node
   - Rust
+  - Go
   - Postgres + Prisma
-  - Redis
   - Docker
 
