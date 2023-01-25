@@ -7,9 +7,8 @@
 </a>
 
 - 🖥️ Frontend:
-  - React/Next.js/Vite.js
-  - TailwindCSS
-
+  Ruby 
+  Rust(asm)
 - 🛠 Backend:
   - Node(Nest.js/Express.js)
   - Rust
