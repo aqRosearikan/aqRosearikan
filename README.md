@@ -5,14 +5,3 @@
 <a href="https://discord.com/users/712019941867520053">
   <img src="https://lanyard-profile-readme.vercel.app/api/712019941867520053?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
-
-- 🖥️ Frontend:
-  Ruby 
-  Rust(asm)
-- 🛠 Backend:
-  - Node(Nest.js/Express.js)
-  - Rust
-  - Go
-  - Postgres + Prisma
-  - Docker
-
